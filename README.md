@@ -45,7 +45,7 @@ Evaluated risk-return tradeoff
 
 Generated segmentation summaries
 
-3.Business Intelligence (Power BI)
+--3.Business Intelligence (Power BI)
 
 Built a 3-page executive dashboard:
 
@@ -90,3 +90,13 @@ Increase allocation toward Grade B/C and Good FICO borrowers.
 Gradually shift portfolio mix toward shorter-duration (36-month) loans.
 
 Monitor concentration risk within mid-tier credit segments.
+
+# Business Impact
+
+This analysis demonstrates how portfolio allocation decisions can:
+
+Improve risk-adjusted returns
+
+Reduce concentration risk
+
+Enhance portfolio stability during economic downturns
