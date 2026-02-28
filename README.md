@@ -4,7 +4,7 @@
 
  # Project Objective
 
-To analyze loan portfolio risk, exposure concentration, and profitability drivers using LendingClub loan data, and identify segments that optimize risk-adjusted returns.
+To analyze loan portfolio risk, exposure concentration and profitability drivers using LendingClub loan data and identify segments that optimize risk-adjusted returns.
 
 This project demonstrates end-to-end data workflow — from raw database ingestion to executive-level business insights.
 
@@ -43,7 +43,6 @@ Performed correlation analysis
 
 Evaluated risk-return tradeoff
 
-Generated segmentation summaries
 
 3.Business Intelligence (Power BI)
 
