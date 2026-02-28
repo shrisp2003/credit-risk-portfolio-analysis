@@ -1,6 +1,6 @@
 ## Credit Risk & Portfolio Performance Analysis
 
- End-to-End SQL → Python → Power BI Project
+ End-to-End SQL → Python → Power BI
 
  # Project Objective
 
