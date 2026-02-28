@@ -45,7 +45,7 @@ Evaluated risk-return tradeoff
 
 Generated segmentation summaries
 
---3.Business Intelligence (Power BI)
+3.Business Intelligence (Power BI)
 
 Built a 3-page executive dashboard:
 
