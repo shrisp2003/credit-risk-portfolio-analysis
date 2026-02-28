@@ -46,8 +46,16 @@ profit_summary
 #Calculated the risk return
 risk_return = df.groupby('grade').agg(
     default_rate=('default_flag', 'mean'),
-    net_profit=('principal_loss', 'sum')
+    total_interest=('total_rec_int', 'sum'),
+    total_principal_loss=('principal_loss', 'sum')
 )
+
+risk_return['net_profit'] = (
+    risk_return['total_interest'] -
+    risk_return['total_principal_loss']
+)
+
+risk_return
 
 #Shows the Risk VS Profit by Grade
 plt.scatter(
